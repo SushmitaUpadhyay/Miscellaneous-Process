@@ -1,0 +1,13 @@
+1. pip install virtualenv
+2. list - to see
+3. mkdir Environments, dir- to see contents
+4. cd Environments
+5. virtualenv prokect1Flask_env- create virtual environment
+6. cd project1Flask_env, .\Scripts\activate - to activate
+
+
+
+
+
+
+
