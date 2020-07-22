@@ -6,6 +6,14 @@
 6. cd project1Flask_env, .\Scripts\activate - to activate
 7. cd 
 8. pip list- check package
+9. pip install numpy, pytz, psutil
+10. pip freeze --local > requirements.txt - freeze local site packages to requirements.txt, dir to see
+11. deactivate to go to global environment
+12. rm -rf prokect1Flask_env/- get rid of environment
+
+
+
+
 
 
 
