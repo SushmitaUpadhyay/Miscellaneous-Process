@@ -5,9 +5,7 @@
 5. virtualenv prokect1Flask_env- create virtual environment
 6. cd project1Flask_env, .\Scripts\activate - to activate
 7. cd 
-
-
-
+8. pip list- check package
 
 
 
